@@ -1,5 +1,5 @@
 # Projet 2023 Surveillance de la qualité de l’air dans une salle de classe
-**Alex développement Qt**
+**Alex, développement Qt**
 
 ## Mission
 Mon travail dans ce projet consiste à lire les données d’entrée de température, d'hygrométrie et de CO2 d’un capteur SCD30 branché sur une carte MKR 1010.
